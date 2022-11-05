@@ -2,6 +2,7 @@
 <p>Login page shows error if user not registered users
 Registration page shows error if password not of length 8</p> 
 Dashboard after Login
+
 ![image](https://user-images.githubusercontent.com/117512980/200115048-2dde3af3-371c-4bd1-9200-8d2e2b0cc699.png)
 
 Database migrate from jetstream
