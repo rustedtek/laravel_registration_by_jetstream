@@ -1,3 +1,13 @@
+<p>Havent installed npm or node.js hence the alignment issue and not a clean look in login and registraions page</p>
+<p>Login page shows error if user not registered users
+Registration page shows error if password not of length 8</p> 
+Dashboard after Login
+![image](https://user-images.githubusercontent.com/117512980/200115048-2dde3af3-371c-4bd1-9200-8d2e2b0cc699.png)
+
+Database migrate from jetstream
+![image](https://user-images.githubusercontent.com/117512980/200114929-a93cd37d-4458-4a7a-b78b-b277d017e0b2.png)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
