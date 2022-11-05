@@ -24,6 +24,10 @@ steps to follow
    and stop that service
    Restart xampp
    </p>
+   
+<p> After creating a project go to .env in folder of project in IDE and change database name to that of database name in XAMPP
+    <h6> php artisan serve<h6> to start server and see changes on browser tab
+</p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
