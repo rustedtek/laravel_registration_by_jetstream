@@ -5,10 +5,25 @@ Dashboard after Login
 
 ![image](https://user-images.githubusercontent.com/117512980/200115048-2dde3af3-371c-4bd1-9200-8d2e2b0cc699.png)
 
-Database migrate from jetstream
+php artisan migrate
 ![image](https://user-images.githubusercontent.com/117512980/200114929-a93cd37d-4458-4a7a-b78b-b277d017e0b2.png)
 
+If running into Mysql initiation error on Xampp
+steps to follow
+<li>Rename data folder or delete data folder if no new files in need </li>
+<li>create new data folder with files from backup folder</li>
+<li>copy old files from data folder if needed</li>
+<p>If that doesnt work go to windows+R 
+   Search services.msc
+</p>
 
+![image](https://user-images.githubusercontent.com/117512980/200115923-d7c13c01-beaa-404c-afdd-1f76bf595b15.png)
+
+<p>
+   Search MySql 80
+   and stop that service
+   Restart xampp
+   </p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
